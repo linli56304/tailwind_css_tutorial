@@ -45,7 +45,7 @@ function slide() {
             </div>
             <div className="info flex justify-center flex-col">
                 <div className='cat'>
-                    <Link href={"/"} className="text-orange-600 hover:text-orange-800">Business, Travel</Link>
+                    <Link href={"/"} className="text-orange-600 hover:text-orange-800">Announcement</Link>
                     <Link href={"/"} className="text-gray-800 hover:text-gray-600">- 11/11/2022</Link>
                 </div>
                 <div className='title'>
